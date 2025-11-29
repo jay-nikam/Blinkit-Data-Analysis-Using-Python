@@ -1,0 +1,1 @@
+This repository contains a complete data analysis project focused on Blinkit, a fast-grocery delivery platform. The project explores sales performance, outlet characteristics, item visibility, and patterns using Python. It includes data cleaning, exploratory data analysis (EDA), visualizations, and key business insights derived from the dataset.
